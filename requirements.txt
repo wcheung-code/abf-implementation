@@ -1,0 +1,4 @@
+scipy==1.3.1
+meshplot==0.3.3
+igl==0.4.1
+numpy==1.18.1
